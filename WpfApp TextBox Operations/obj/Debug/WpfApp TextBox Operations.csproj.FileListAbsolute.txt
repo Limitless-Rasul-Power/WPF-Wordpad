@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\WpfApp TextBox Operations\WpfApp TextBox Operations\obj\Debug\WpfApp TextBox Operations.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WpfApp TextBox Operations\WpfApp TextBox Operations\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\WpfApp TextBox Operations\WpfApp TextBox Operations\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\WpfApp TextBox Operations\WpfApp TextBox Operations\obj\Debug\WpfApp TextBox Operations_MarkupCompile.cache
+C:\Users\Admin\source\repos\WpfApp TextBox Operations\WpfApp TextBox Operations\obj\Debug\WpfApp TextBox Operations_MarkupCompile.lref
+C:\Users\Admin\source\repos\WpfApp TextBox Operations\WpfApp TextBox Operations\bin\Debug\WpfApp TextBox Operations.exe.config
+C:\Users\Admin\source\repos\WpfApp TextBox Operations\WpfApp TextBox Operations\bin\Debug\WpfApp TextBox Operations.exe
+C:\Users\Admin\source\repos\WpfApp TextBox Operations\WpfApp TextBox Operations\bin\Debug\WpfApp TextBox Operations.pdb
+C:\Users\Admin\source\repos\WpfApp TextBox Operations\WpfApp TextBox Operations\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\WpfApp TextBox Operations\WpfApp TextBox Operations\obj\Debug\WpfApp TextBox Operations.g.resources
+C:\Users\Admin\source\repos\WpfApp TextBox Operations\WpfApp TextBox Operations\obj\Debug\WpfApp_TextBox_Operations.Properties.Resources.resources
+C:\Users\Admin\source\repos\WpfApp TextBox Operations\WpfApp TextBox Operations\obj\Debug\WpfApp TextBox Operations.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WpfApp TextBox Operations\WpfApp TextBox Operations\obj\Debug\WpfApp TextBox Operations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WpfApp TextBox Operations\WpfApp TextBox Operations\obj\Debug\WpfApp TextBox Operations.exe
+C:\Users\Admin\source\repos\WpfApp TextBox Operations\WpfApp TextBox Operations\obj\Debug\WpfApp TextBox Operations.pdb

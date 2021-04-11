@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp TextBox Operations", "WpfApp TextBox Operations\WpfApp TextBox Operations.csproj", "{9C227081-DA02-4F24-8BA4-85E5B9CEA5EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C227081-DA02-4F24-8BA4-85E5B9CEA5EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C227081-DA02-4F24-8BA4-85E5B9CEA5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C227081-DA02-4F24-8BA4-85E5B9CEA5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C227081-DA02-4F24-8BA4-85E5B9CEA5EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFE0BB59-3ADE-479A-BC78-62034F7D3D3A}
+	EndGlobalSection
+EndGlobal
